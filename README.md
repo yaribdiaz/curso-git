@@ -4,4 +4,4 @@ Este repositorio es para aprender a usar GIT y GITHUB.
 
 
 ## Notas
-Aprendiendo Git
+Aprendiendo Git y GitHub
