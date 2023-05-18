@@ -3,5 +3,5 @@
 Este repositorio es para aprender a usar GIT y GITHUB.
 
 
-## Notas
+## Estos cambios son nuevos
 Aprendiendo Git y GitHub, haciendo pull y push
